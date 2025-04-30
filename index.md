@@ -1,7 +1,7 @@
 
 # Zachary Franco's Portfolio
 
-# I am an electrical engineering major at CSUF and I plan on graduating in 2026.
+I am an electrical engineering major at CSUF and I plan on graduating in 2026.
 
 ## Favorite CPSC 120L Labs
 
